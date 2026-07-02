@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AITest-main/static/css/main.e83cbc14.css",
+    "main.js": "/AITest-main/static/js/main.c82ace7f.js",
+    "static/js/453.3ee4e66e.chunk.js": "/AITest-main/static/js/453.3ee4e66e.chunk.js",
+    "index.html": "/AITest-main/index.html",
+    "main.e83cbc14.css.map": "/AITest-main/static/css/main.e83cbc14.css.map",
+    "main.c82ace7f.js.map": "/AITest-main/static/js/main.c82ace7f.js.map",
+    "453.3ee4e66e.chunk.js.map": "/AITest-main/static/js/453.3ee4e66e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83cbc14.css",
+    "static/js/main.c82ace7f.js"
+  ]
+}
